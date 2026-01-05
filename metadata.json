@@ -1,0 +1,5 @@
+{
+  "name": "SuomiCast",
+  "description": "A Finnish learning companion featuring podcast playback and instant AI-powered translation for transcripts.",
+  "requestFramePermissions": []
+}
